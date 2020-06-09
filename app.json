@@ -1,0 +1,6 @@
+{
+  "name": "Python SkillFactory D2",
+  "description": "SkillFactory D2 learining project Sentry.io",
+  "image": "heroku/python",
+  "keywords": ["python", "bottle", "sentry_sdk", "requests" ]
+}
